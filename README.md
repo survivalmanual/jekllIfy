@@ -1,0 +1,1 @@
+This converts the SurvialManual wiki into a jekyll page.
